@@ -1,0 +1,5 @@
+Empowering Hope: A Token for Cancer Support
+
+Every day, countless individuals and families face the immense challenge of affording cancer treatments. The financial and emotional burdens are overwhelming, and often the need for assistance is urgent. Our mission is to change that. Through our new token, we aim to build a network of compassionate support dedicated to providing direct financial aid for cancer patients who are struggling to meet the high costs of treatment.
+
+Our project isn't just about a token it's about fostering a community of hope, compassion, and positive impact. With each transaction, we’re not only growing our network but also bringing essential aid to those who need it most. Together, we can help make life-saving treatment accessible to more people, creating a brighter future for countless families.
