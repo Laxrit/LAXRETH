@@ -12,7 +12,7 @@ contract NewLAXRETH is ERC20, Ownable {
 
     address public oldTokenAddress; // Address of the old token contract
 
-    constructor(address _oldTokenAddress) ERC20("LAXRETH", "ETH") {
+    constructor(address _oldTokenAddress) ERC20("LAXRETH", "ETH") Ownable() {
         require(_oldTokenAddress != address(0), "Invalid old token address");
         oldTokenAddress = _oldTokenAddress;
         _mint(msg.sender, INITIAL_SUPPLY); // Mint initial tokens to the deployer
